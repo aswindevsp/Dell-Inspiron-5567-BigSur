@@ -22,5 +22,6 @@ Wifi fix: https://github.com/OpenIntelWireless/itlwm/releases
 
 TrackPad fix: https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller
 
+Audio Fix: https://www.elitemacx86.com/threads/fix-audio-distortion-when-using-headphones-on-laptops.185/
 
 
