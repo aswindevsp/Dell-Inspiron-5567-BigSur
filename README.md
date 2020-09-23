@@ -11,3 +11,5 @@ OS: Catallina 10.15.6
 
 Eveything is working except card reader.
 Wifi fix: https://github.com/OpenIntelWireless/itlwm/releases
+TrackPad fix: https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller
+
