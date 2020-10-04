@@ -1,4 +1,4 @@
-# Dell-Inspiron-5567-Catalina
+# Dell-Inspiron-5567-Catalina Clover and Open Core
 
 
 This is the clover folder for Dell Inspiron 5567 with specs:
@@ -12,6 +12,9 @@ EGPU: Radeon R7 M445
 Wifi: Intel® Dual Band Wireless-AC 3165
 
 OS: Catallina 10.15.6
+
+
+Open Core for installation only. 
 
 
 
