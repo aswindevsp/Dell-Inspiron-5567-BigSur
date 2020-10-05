@@ -1,7 +1,7 @@
 # Dell-Inspiron-5567-Catalina Clover and Open Core
 
 
-This is the clover folder for Dell Inspiron 5567 with specs:
+This is the clover and OpenCore folder for Dell Inspiron 5567 with specs:
 
 CPU: Intel i7 7500U
 
