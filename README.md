@@ -11,7 +11,7 @@ EGPU: Radeon R7 M445
 
 Wifi: Intel® Dual Band Wireless-AC 3165
 
-OS: BigSur Beta 
+OS: BigSur Beta 9
 
 
 
