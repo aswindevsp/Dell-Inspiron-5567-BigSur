@@ -9,7 +9,7 @@ IGUP: Intel HD 620
 
 EGPU: Radeon R7 M445
 
-Wifi: Intel® Dual Band Wireless-AC 3165
+Wifi: Intel® Dual Band Wireless-AC 3165 (Not included in efi)
 
 OS: BigSur Beta 9
 
@@ -18,11 +18,9 @@ OS: BigSur Beta 9
 
 
 
-Eveything is working except card reader.
+
 
 Wifi fix: https://github.com/OpenIntelWireless/itlwm/releases
-
-TrackPad fix: https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller
 
 Audio Fix: https://www.elitemacx86.com/threads/fix-audio-distortion-when-using-headphones-on-laptops.185/
 
