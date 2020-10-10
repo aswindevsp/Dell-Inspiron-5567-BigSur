@@ -1,4 +1,4 @@
-# Dell-Inspiron-5567-Catalina Open Core
+# Dell-Inspiron-5567-Catalina Open Core 0.6.2
 
 
 This is the OpenCore folder for Dell Inspiron 5567 with specs:
@@ -11,7 +11,8 @@ EGPU: Radeon R7 M445
 
 Wifi: Intel® Dual Band Wireless-AC 3165
 
-OS: BigSur Beta 9
+OS: BigSur Beta 
+
 
 
 
