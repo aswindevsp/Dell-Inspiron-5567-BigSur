@@ -1,7 +1,7 @@
-# Dell-Inspiron-5567-Catalina Clover and Open Core
+# Dell-Inspiron-5567-Catalina Open Core
 
 
-This is the clover and OpenCore folder for Dell Inspiron 5567 with specs:
+This is the OpenCore folder for Dell Inspiron 5567 with specs:
 
 CPU: Intel i7 7500U
 
@@ -11,10 +11,8 @@ EGPU: Radeon R7 M445
 
 Wifi: Intel® Dual Band Wireless-AC 3165
 
-OS: Catallina 10.15.6
+OS: BigSur Beta 9
 
-
-Open Core for installation only. 
 
 
 
