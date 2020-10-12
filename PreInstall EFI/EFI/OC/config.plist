@@ -752,7 +752,7 @@
 			<key>PickerAudioAssist</key>
 			<false/>
 			<key>PickerMode</key>
-			<string>Builtin</string>
+			<string>External</string>
 			<key>PollAppleHotKeys</key>
 			<false/>
 			<key>ShowPicker</key>
@@ -963,7 +963,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02031300CD0000UE</string>
+			<string>C020231044N0000A8</string>
 			<key>ProcessorType</key>
 			<integer>1793</integer>
 			<key>SystemMemoryStatus</key>
@@ -975,9 +975,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02D50X7P3XY</string>
+			<string>C02CTWYZP3XY</string>
 			<key>SystemUUID</key>
-			<string>55BE1442-6ABE-460B-8EA2-EE14B5AF5B7F</string>
+			<string>D8473FE0-0CAB-4F03-A277-D4DFF1CFA338</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
