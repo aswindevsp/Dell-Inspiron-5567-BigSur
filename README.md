@@ -22,6 +22,5 @@ OS: BigSur Beta 9
 
 Wifi fix: https://github.com/OpenIntelWireless/itlwm/releases
 
-Audio Fix: https://www.elitemacx86.com/threads/fix-audio-distortion-when-using-headphones-on-laptops.185/
-
+Audio Fix: https://github.com/hackintosh-stuff/ComboJack
 
