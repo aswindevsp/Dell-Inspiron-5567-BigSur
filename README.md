@@ -9,18 +9,14 @@ IGUP: Intel HD 620
 
 EGPU: Radeon R7 M445
 
-Wifi: Intel® Dual Band Wireless-AC 3165 (Not included in efi)
+Wifi: Intel® Dual Band Wireless-AC 3165 
 
-OS: BigSur 11.0.1 Beta(20B5022a)
-
-
+OS: BigSur 11.0.1
 
 
 
 
 
-
-Wifi fix: https://github.com/OpenIntelWireless/itlwm/releases
 
 Audio Fix: https://github.com/hackintosh-stuff/ComboJack
 
