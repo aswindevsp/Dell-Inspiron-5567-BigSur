@@ -1,7 +1,7 @@
 # Dell-Inspiron-5567 Open Core 0.6.3
 
 
-This is the OpenCore folder for Dell Inspiron 5567 with specs:
+OpenCore folder for Dell Inspiron 5567:
 
 CPU: Intel i7 7500U
 
